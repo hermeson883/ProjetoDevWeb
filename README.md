@@ -1,5 +1,5 @@
 # ProjetoDevWeb
-Um projeto realizado pelos alunos de: Analise e Desenvolvimento de Sistemas, Ciências da Computação e Rede de Sistemas. 
+Um projeto realizado pelos alunos de: Analise e Desenvolvimento de Sistemas, Ciências da Computação e Redes de Sistemas. 
 
 <h1>
   Este trabalho consiste na criação de um site com uso do: HTML, CSS e Bootstrap.
